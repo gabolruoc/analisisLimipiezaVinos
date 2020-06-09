@@ -1,5 +1,5 @@
-# analisisLimipiezaVinos
-Analisis y limipeza del dataset Red Wine
+# Análisis y limpieza dataset calidad de vino
+En la presente práctica se pretende analizar y limpiar los datos, a partir de esto se obtendrá un modelo que permita predecir la calidad del vino en base a los atributos relevantes también identificados dentro de la presente práctica. Todos estos procesos los realizaremos mediante Python usando las librerías disponibles para análisis de datos.
 
 ## Integrantes:
 Gabriel Loja
