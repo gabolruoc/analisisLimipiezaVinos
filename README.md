@@ -11,6 +11,12 @@ Contiene las respuestas a las preguntas planteadas.
 ### Práctica 2 Red Wine.ipynb
 Jupyter notebook con el código fuente.
 
+### Práctica 2 Red Wine.py
+Código fuente en python
+
+### Práctica 2 Red Wine.html
+Codigo fuente y resultados en HTML
+
 ### red_wine_limpio.csv
 CSV con el proceso de limpieza.
 
